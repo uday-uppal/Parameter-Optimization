@@ -1,5 +1,5 @@
 # Parameter-Optimization
-The Dataset was take from the following link : https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
+The Dataset was taken from the following link : https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
 # Data Analytics
 The dataset consists of feature vectors belonging to 12,330 sessions.
 The dataset was formed so that each session
