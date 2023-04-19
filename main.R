@@ -56,13 +56,3 @@ for(j in 1: 10){
   }
 }
 plot(1:iteration,best_accuracy_vector)
-
-'for(i in 1:iteration){
-  k = bestkernel
-  n = bestNu
-  e = bestEpsilon
-  training_data = best_training_data
-  testing_data = best_testing_data
-  accuracy = fitnessFunction(k,n,e,training_data,testing_data)
-  }
-'
