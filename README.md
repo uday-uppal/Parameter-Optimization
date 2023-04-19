@@ -33,7 +33,7 @@ Number of Attributes: 18
 <br>
 <br>
 # Result
-The best accuracy was found to be 90.13%.
+The best accuracy of Support Vector Machine was found to be 90.13%.
 <br><br>
 
 The best Nu value is 0.06630325
